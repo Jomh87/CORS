@@ -1,5 +1,5 @@
 // Server proxy: bypass cors   
-let my_cors_proxy = 'http://localhost:1987/webScraping';  //https://programar.cloud/post/configurar-cors-en-apache-server/
+let my_cors_proxy = 'https://github.com/Jomh87/CORS:1987';  //https://programar.cloud/post/configurar-cors-en-apache-server/
 // URL to be fetched: CHANGE IT
 let my_url = 'https://www.bicimarket.com/es/461-mtb-29';
 
